@@ -23,7 +23,6 @@
 
 **Схемотехника:** Микроконтроллер ESP32S3, интерфейс Ethernet W5500, дисплее OLED128x63 I2C, flash-память W25Q256.
 
- ![Фонарики в упаковке](https://github.com/Dangerwind/HandyLed/blob/main/img/fonarik02.jpg) 
- ![Фонарики на руке](https://github.com/Dangerwind/HandyLed/blob/main/img/fonarik03.jpg) 
+ ![Внешний вид макетной платы]([https://github.com/Dangerwind/HandyLed/blob/main/img/fonarik02.jpg](https://github.com/Dangerwind/BagulnikMzBase/blob/main/img/bagulnikmz.jpg)) 
 
 
