@@ -1,2 +1,4 @@
-# BagulnikMzBase
-Сentral data processing station of the Bagulnik-M-MZ system
+
+# Центральная станция обработки и передачи информации системы "Багульник-М МЗ".
+__Проект, разработанный в интересах ООО "АГ Инжиниринг".__
+
