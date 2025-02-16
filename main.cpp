@@ -4,7 +4,6 @@
 #include "NTPClient.h"
 
 #include <WiFi.h>
-
 #include <webhtml.h>
 
 #include <Adafruit_SPIDevice.h>
