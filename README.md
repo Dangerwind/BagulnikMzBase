@@ -25,6 +25,6 @@
 
  ![Внешний вид макетной платы](https://github.com/Dangerwind/BagulnikMzBase/blob/main/img/bagulnikmz.jpg) 
 
- На фотографии опытный образец изделия.
+ На фотографии опытный образец изделия без лицевой панели.
 
 
